@@ -9,14 +9,14 @@
 }, {
     "_id": 2,
     "title": "Principles",
-    "rating": 5,
+    "rating": 5.0,
     "thumbnailUrl": "https://m.media-amazon.com/images/I/41Mq7Ss7lPL.jpg",
     "shortDescription": "Ray Dalio, one of the world’s most successful investors and entrepreneurs, shares the unconventional principles that he’s developed, refined, and used over the past forty years to create unique results in both life and business—and which any person or organization can adopt to help achieve their goals.",
     "author": "Ray Dalio"
 }, {
     "_id": 3,
     "title": "The Almanack of Naval Ravikant: A Guide to Wealth and Happiness",
-    "rating": 5,
+    "rating": 5.0,
     "thumbnailUrl": "https://m.media-amazon.com/images/I/31EQXd8E9eL.jpg",
     "shortDescription": "Getting rich is not just about luck; happiness is not just a trait we are born with. These aspirations may seem out of reach, but building wealth and being happy are skills we can learn.",
     "author": "Naval Ravikant"
