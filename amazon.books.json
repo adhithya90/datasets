@@ -2,7 +2,7 @@
 {
     "_id": 1,
     "title": "A Promised Land",
-    "rating": 4.16,
+    "rating": 4.5,
     "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/41L5qgUW2fL._SX327_BO1,204,203,200_.jpg",
     "shortDescription": "A riveting, deeply personal account of history in the making—from the president who inspired us to believe in the power of democracy.",
     "author": "Barack Obama"
@@ -16,9 +16,23 @@
 }, {
     "_id": 3,
     "title": "The Almanack of Naval Ravikant: A Guide to Wealth and Happiness",
-    "rating": 5.0,
+    "rating": 3.5,
     "thumbnailUrl": "https://m.media-amazon.com/images/I/31EQXd8E9eL.jpg",
     "shortDescription": "Getting rich is not just about luck; happiness is not just a trait we are born with. These aspirations may seem out of reach, but building wealth and being happy are skills we can learn.",
     "author": "Naval Ravikant"
+}, {
+    "_id": 4,
+    "title": "Tiny Habits: The Small Changes That Change Everything",
+    "rating": 3.0,
+    "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/51RSwNdGz8L._SX331_BO1,204,203,200_.jpg",
+    "shortDescription": "The world’s leading expert on habit formation shows how you can have a happier, healthier life: by starting small. ",
+    "author": "BJ Fogg, PhD"
+}, {
+    "_id": 5,
+    "title": "The Body: A Guide for Occupants",
+    "rating": 3.0,
+    "thumbnailUrl": "https://m.media-amazon.com/images/I/410R41+ua7L.jpg",
+    "shortDescription": "Bill Bryson, best-selling author of A Short History of Nearly Everything, takes us on a head-to-toe tour of the marvel that is the human body. As addictive as it is comprehensive, this is Bryson at his very best, a must-listen owner's manual for everybody.",
+    "author": "Bill Bryson"
 }
 ]
